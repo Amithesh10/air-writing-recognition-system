@@ -5,6 +5,7 @@ flask==3.0.3
 flask-cors==4.0.1
 opencv-python==4.9.0.80
 imutils==0.5.4
+cv2
 av
 streamlit
 streamlit_webrtc
